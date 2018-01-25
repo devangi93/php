@@ -1,0 +1,61 @@
+1)reviewportal 
+  website - only for marketing
+  app - for video upload
+  Main concept
+	1)open review portal for video upload and add topic(dance,motivational,politicas,code etc..)
+	2)videos collected 
+	3)close review portal for video upload
+	4)approve video from admin panel and upload to youtube channel
+	5)display my upload
+	6)result date 
+	7)Max like on video from public winner will be that video(dession by people)
+  design reference
+		http://vod-share.com/site_term_and_conditions.html
+  mustcheck
+	1)Testing	
+	2)SEO
+	3)Server load 
+	
+  Whats about income
+	1)through youtube channel
+	2)participent charge    (10*100 user = 1000)(50%) 500 price 500 profit
+				(10*1000  = 10000) (20%) 2000 price 8000 profit
+				(10*2000  = 20000) (10%) 2000 price 18000 profit
+	3)registration charge
+	4)is it possible to have advertisement in app and what the benifit?
+
+  Query
+	1)is youtube give video like ?
+	2)is youtube subscriber user ? 	
+	3)how give money youtube
+
+  Whats about risk management?
+	1)number of partner
+	2)
+  Whats about leagal?
+	
+  Whats about marketing?
+	1)colleges
+	2)facebook
+	3)whats app
+	4)insta - not
+	5)hike
+	6)google+
+	7)twitter
+	
+  code link 
+	->video upload
+	https://stackoverflow.com/questions/18217964/upload-video-files-via-php-and-save-them-in-appropriate-folder-and-have-a-databa/18219669
+	
+
+	
+	
+		
+		
+
+	
+
+	
+
+
+	
