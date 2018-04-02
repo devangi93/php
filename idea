@@ -52,8 +52,14 @@
 	
 		
 		
+CSV Import steps
 
-	
+1)make csv with comma seperated respected to table column 
+2)Columns separated with: , used seperator to seprate column
+2)Columns enclosed with:  No need to give
+4)Columns escaped with: , used seperator to seprate column
+5)Lines terminated with: auto
+6)Column names: which column you want to add
 
 	
 
