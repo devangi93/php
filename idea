@@ -61,6 +61,8 @@ CSV Import steps
 5)Lines terminated with: auto
 6)Column names: which column you want to add
 
+Note : Make sure to remove column name from csv file 
+
 	
 
 
